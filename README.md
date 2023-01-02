@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there:
 <br><br><br><img src="https://user-images.githubusercontent.com/57105611/210224861-db9f86fa-76c4-4b09-85ba-e3908b91d4ee.gif"><br><br><br><br><br>🔭 I’m currently learning Dockers and Kubernetes.<br>👯 I’m looking to collaborate on Backend Projects<br><br>
 
 
